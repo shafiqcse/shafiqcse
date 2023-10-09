@@ -8,12 +8,12 @@
 
 As a Front End Web Developer, I'm passionate about creating websites that have no errors and have happy clients. Learning and openly imparting my knowledge to others are two things that I am passionate about. Real-world issues are my favorite to resolve. I always approach my work strategically, with the aim in mind. I've made hundreds of websites for my clients throughout the years. I take pride in producing high-quality work and keeping up outstanding communication. I work with WordPress the majority of the time, but I also like working with PHP and JavaScript.
 
-👨‍💻 Skills & Experiance:
-✅ WordPress
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+##👨‍💻 Skills & Experiance:
+###✅ WordPress
+###✅ JavaScript
+###✅ PHP
+###✅ HTML5 / CSS3 / SASS / Bootstrap
+###✅ Photoshop / Illustrator
 
 Skills: HTML / CSS / JS / WordPress / PHP
 
