@@ -18,13 +18,7 @@ Skills: HTML / CSS / JS / WordPress / PHP
 - 📫 How to reach me **https://techtosoft.com/**
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shafiqcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100094038581095)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](techtosoft.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqcse)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafiqcse&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shafiqcse)  
 
 
 
