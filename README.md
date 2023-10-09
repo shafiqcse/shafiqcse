@@ -26,11 +26,7 @@ Skills: HTML / CSS / JS / WordPress / PHP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shafiqcse)  
 
-![GitHub metrics](https://metrics.lecoq.io/shafiqcse)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shafiqcse)  
-
-![Profile views](https://gpvc.arturio.dev/shafiqcse)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
